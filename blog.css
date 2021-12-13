@@ -1,5 +1,5 @@
 .header{
-    background-color:rgb(164, 98, 226);
+    background-color:rgb(49, 49, 122);
     height: 90px;
     border-radius: 0px 0px 0px 20px;
     margin-left: 5%;
@@ -40,10 +40,10 @@ h4{
     height: 40px;
     width: 20%;
     color: white;
-    font-weight: 300%;
+    /* font-weight: 300%; */
     border-radius: 65px 65px 65px 65px;
-    border: 1px solid rgb(164, 98, 226);
-    background-color: rgb(164, 98, 226);
+    border: 1px solid rgb(49, 49, 122);
+    background-color: rgb(49, 49, 122);
   
     
 }
@@ -62,7 +62,7 @@ h4{
 .footer{
     height: 120px;
     margin-top: 50px;
-    background-color:rgb(164, 98, 226);
+    background-color:rgb(49, 49, 122);
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
